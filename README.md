@@ -1,8 +1,4 @@
-This lab focuses on using CSS3 features and responsive design techniques to create visually appealing and adaptable web pages. It covers the following areas;  
-
- CSS3 Enhancements: Working with flexbox, grid layouts, transitions, animations, and shadows.  
- Media Queries: Adjusting layouts based on different screen sizes.  
- Responsive Design: Implementing fluid grids, scalable fonts, and flexible images for a mobile-friendly experience.  
+This lab is based on web development project where you build a simple responsive website using HTML, CSS, and JavaScript. Key features include a theme toggle (light/dark mode), form validation with feedback, an interactive FAQ section, and a team member list displayed using JavaScript. It focuses on DOM manipulation, event handling, and user interaction to implement fundamental JavaScript concepts.
 
 Group Members
 1. Mwila Honest comp No: 2021491609

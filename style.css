@@ -253,3 +253,17 @@ footer {
         opacity: 1;
     }
 }
+
+.dark-theme {
+    background-color: #121212;
+    color: #f0f0f0;
+    }
+
+
+    .answer {
+        display: none;
+      }
+      .answer.visible {
+        display: block;
+      }
+      
